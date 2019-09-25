@@ -2,7 +2,8 @@
 		   dsply 'Hope,All Is Well';
 			dsply 'Suchithra';
 			dsply 'Praveen';	
-			dsply 'Kaushal';		
+			dsply 'Kaushal';
+			dsply 'manish';		
 		*inlr=*On;
 		/end-free
      
